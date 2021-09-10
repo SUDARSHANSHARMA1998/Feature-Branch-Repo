@@ -7,7 +7,7 @@ servers:
 paths:
   /user:
     get:
-      summary: 'Sample endpoint: Returns details about a particular user git change one more time'
+      summary: 'Sample endpoint: Returns details about a particular user git change second time'
       operationId: listUser
       tags:
         - user
