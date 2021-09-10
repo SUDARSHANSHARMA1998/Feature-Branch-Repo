@@ -7,7 +7,7 @@ servers:
 paths:
   /user:
     get:
-      summary: 'Sample endpoint: Returns details about a particular second time git bhjhbbkjn. dsncndsjncjkdsnc sjncjkdsnc sjncjkdsnc sjncjkdsnc sjncjkdsnc3'
+      summary: 'Sample endpoint: Returns details about a particular second time git bhjhbt bhjhbt bhjhbt bhjhbt bhjhbbdsnc4'
       operationId: listUser
       tags:
         - user
