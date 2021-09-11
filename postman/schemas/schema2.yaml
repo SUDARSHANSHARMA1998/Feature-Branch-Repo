@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: '0.1'
-  title: Git Schema
+  title: Git Schema new
 servers:
   - url: 'https://petstore.swagger.io/v1'
 paths:
