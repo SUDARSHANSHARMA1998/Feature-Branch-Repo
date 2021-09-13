@@ -7,7 +7,7 @@ servers:
 paths:
   /user:
     get:
-      summary: 'Sample endpoint: Returns details about a particular actios postman dfdfsd 2 3'
+      summary: 'Sample endpoint: Returns details about a particular actios postman dfdfsd 2 3 4'
       operationId: listUser
       tags:
         - user
